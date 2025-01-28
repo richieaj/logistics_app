@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2db5f84e-59ba-41e3-8d8c-d333ef3419be" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Description.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/driver_app_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/driver_app_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/driver_app_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/driver_app_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/driver_app_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/driver_app_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/driver_app_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/office_app_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/office_app_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/office_app_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/office_app_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/office_app_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/office_app_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/office_app_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/office_app_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/office_app_9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/project_architecture.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/project_architecture.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2sDvbV93c1E6BbAQBEMsXvDWBEM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.AccountsToCodyMigration": "true",
+    "RunOnceActivity.ChatTagsLlmMigration": "true",
+    "RunOnceActivity.CodyAccountHistoryMigration": "true",
+    "RunOnceActivity.CodyAccountsIdsRefresh": "true",
+    "RunOnceActivity.CodyAssignOrphanedChatsToActiveAccount": "true",
+    "RunOnceActivity.CodyConvertUrlToCodebaseName": "true",
+    "RunOnceActivity.CodyHistoryLlmMigration": "true",
+    "RunOnceActivity.CodyMigrateChatHistory-v2": "true",
+    "RunOnceActivity.CodyProjectSettingsMigration": "true",
+    "RunOnceActivity.DeprecatedChatLlmMigration": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.ToggleCodyToolWindowAfterMigration": "true",
+    "com.codeium.enabled": "true",
+    "last_opened_file_path": "/Users/raghul/Desktop/logistics-app"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-8336bb23522e-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.19072.16" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2db5f84e-59ba-41e3-8d8c-d333ef3419be" name="Changes" comment="" />
+      <created>1738003031790</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738003031790</updated>
+    </task>
+    <servers />
+  </component>
+</project>
