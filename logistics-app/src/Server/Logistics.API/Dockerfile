@@ -5,15 +5,14 @@ EXPOSE 443
 
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /src
-COPY ["src/Server/Logistics.API/*.csproj", "Server/Logistics.API/"]
-COPY ["src/Core/Logistics.Application.Main/*.csproj", "Core/Logistics.Application.Main/"]
-COPY ["src/Core/Logistics.Application.Main.Contracts/*.csproj", "Core/Logistics.Application.Main.Contracts/"]
-COPY ["src/Core/Logistics.Application.Shared/*.csproj", "Core/Logistics.Application.Shared/"]
-COPY ["src/Core/Logistics.Application.Tenant/*.csproj", "Core/Logistics.Application.Tenant/"]
-COPY ["src/Core/Logistics.Application.Tenant.Contracts/*.csproj", "Core/Logistics.Application.Tenant.Contracts/"]
-COPY ["src/Core/Logistics.Domain/*.csproj", "Core/Logistics.Domain/"]
-COPY ["src/Core/Logistics.Domain.Shared/*.csproj", "Core/Logistics.Domain.Shared/"]
-COPY ["src/Core/Logistics.EntityFramework/*.csproj", "Core/Logistics.EntityFramework/"]
+COPY ["src/Server/Logistics.API/Logistics.API.csproj", "Server/Logistics.API/"] 
+COPY ["src/Server/Logistics.Application.Admin/Logistics.Application.Admin.csproj", "Server/Logistics.Application.Admin/"]
+COPY ["src/Server/Logistics.Application.Core/Logistics.Application.Core.csproj", "Server/Logistics.Application.Core/"]
+COPY ["src/Server/Logistics.Application.Tenant/Logistics.Application.Tenant.csproj", "Server/Logistics.Application.Tenant/"]
+COPY ["src/Server/Logistics.DbMigrator/Logistics.DbMigrator.csproj", "Server/Logistics.DbMigrator/"]
+COPY ["src/Server/Logistics.Domain/Logistics.Domain.csproj", "Server/Logistics.Domain/"]
+COPY ["src/Server/Logistics.IdentityServer/Logistics.IdentityServer.csproj", "Server/Logistics.IdentityServer/"]
+COPY ["src/Server/Logistics.Infrastructure.EF/Logistics.Infrastructure.EF.csproj", "Server/Logistics.Infrastructure.EF/"]
 RUN dotnet restore "Server/Logistics.API/Logistics.API.csproj"
 WORKDIR /
 COPY . ./
